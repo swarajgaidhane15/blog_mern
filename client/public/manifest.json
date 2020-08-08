@@ -1,0 +1,14 @@
+{
+  "short_name": "MyBlogDude",
+  "name": "A simple and handy Blog page",
+  "icons": [
+    {
+      "src": "logo.jpg",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
