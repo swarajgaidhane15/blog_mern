@@ -9,4 +9,4 @@ The app uses MERN stack -
 <br>ReactJS (Frontend framerwork) 
 <br>NodeJS (Backend environment)
 
-Live <a href="https://obscure-sea-19449.herokuapp.com/">Demo</a> here.
+Live <a href="https://frozen-harbor-54425.herokuapp.com/">Demo</a> here.
